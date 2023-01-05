@@ -12,10 +12,10 @@ dependencies:
   flutter:
     sdk: flutter
   epubx: ^3.0.0
-  equatable: ^2.0.3
-  html: ^0.15.0
+  equatable: ^2.0.5
+  html: ^0.15.1
   flutter_html: ^3.0.0-alpha.3
-  scrollable_positioned_list: ^0.3.2
+  scrollable_positioned_list: ^0.3.5
   collection: ^1.16.0
   universal_file: ^1.0.0
 
